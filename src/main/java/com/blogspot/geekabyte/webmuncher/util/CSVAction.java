@@ -109,7 +109,7 @@ public class CSVAction implements FetchAction {
         }
 
         /**
-         * Use to set if plain text version or html version should be saved to CSV. True saves plain text; false
+         * Used to set if plain text version or html version should be saved to CSV. True saves plain text, false
          * saves HTML version. Default is false
          *
          * @param toPlainText true or false

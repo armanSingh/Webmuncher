@@ -279,7 +279,7 @@ public class Webmuncher {
     }
 
     /**
-     * Recursively Extracts all href starting from a given url
+     * Recursively Extracts all href starting from a given url.
      * The method is blocking. Only returns when all url has been fetched
      *
      * @param url the URL to start extracting from
